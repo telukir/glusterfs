@@ -1,3 +1,11 @@
+Prerequisite installations
+**************************
+
+For Ubuntu based systems
+=======================
+apt install autoconf automake pkg-config libtool libtcmalloc-minimal4 # if required used sudo
+
+
 Installation Instructions
 *************************
 
